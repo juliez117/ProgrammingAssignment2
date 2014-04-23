@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## functions do make an inverse of a given matrix
 
 ## Write a short comment describing this function
 
